@@ -1,0 +1,11 @@
+{
+  "name": "estructuras_datos_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Andres Diaz",
+  "license": "MIT"
+}
